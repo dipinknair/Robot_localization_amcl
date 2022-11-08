@@ -1,7 +1,7 @@
 # Robot_localization_amcl
 Localization of a mobile robot in ROS using Adaptive Monte Carlo Localization. 
 
-<img src="results.gif" alt="circuit" width="500" height="281"/></a>
+<img src="images/results.gif" alt="circuit" width="500" height="281"/></a>
 
 ## Description
 The project consists of the following parts:
